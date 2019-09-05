@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/imooc/mvcdemo/controller/CoureseController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/imooc/mvcdemo/service/imp/CourseServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsps/course_overview.jsp" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
